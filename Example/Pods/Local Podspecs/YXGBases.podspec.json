@@ -1,0 +1,22 @@
+{
+  "name": "YXGBases",
+  "version": "0.1.0",
+  "summary": "A short description of YXGBases.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yxguang66@163.com/YXGBases",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yxguang66@163.com": "yxguang66@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yxguang66@163.com/YXGBases.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXGBases/Classes/**/*"
+}

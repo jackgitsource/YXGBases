@@ -1,0 +1,6 @@
+framework module Pods_YXGBases_Example {
+  umbrella header "Pods-YXGBases_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

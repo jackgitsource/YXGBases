@@ -1,0 +1,6 @@
+framework module YXGBases {
+  umbrella header "YXGBases-umbrella.h"
+
+  export *
+  module * { export * }
+}

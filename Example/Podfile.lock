@@ -1,0 +1,16 @@
+PODS:
+  - YXGBases (0.1.0)
+
+DEPENDENCIES:
+  - YXGBases (from `../`)
+
+EXTERNAL SOURCES:
+  YXGBases:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXGBases: 5c5218ea65d8d5accd1a86cd81bad04b23580b8a
+
+PODFILE CHECKSUM: 3209f3e70bc478aefc26ca078f5f0b7f84de282e
+
+COCOAPODS: 1.9.1
